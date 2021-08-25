@@ -1,0 +1,24 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+#content{
+	/*background: #193;*/
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	padding: 10px;
+}
+.align-div{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.margen{
+	margin: 10px;
+}
+.txt-input{
+	margin: 10px;
+}
